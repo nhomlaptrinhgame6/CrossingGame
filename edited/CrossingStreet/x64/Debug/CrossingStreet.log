@@ -1,0 +1,69 @@
+﻿  main.cpp
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\People.h(33,44): warning C4042: 'posY': has bad storage class
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\People.h(49,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(14,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(14,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(14,31): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(14,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,16): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,26): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,31): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(16,31): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,11): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,16): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,21): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,26): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(20,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,11): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,16): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,21): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,26): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(21,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(22,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(22,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(22,16): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(22,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(22,26): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(22,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(25,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(25,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(25,16): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(25,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(26,11): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(26,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(30,26): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(30,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,6): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,6): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,11): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,16): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,16): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,21): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,21): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,26): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(31,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(36,11): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(36,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(37,11): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(37,11): warning C4309: 'initializing': truncation of constant value
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(115,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(241,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(312,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(743,9): warning C4101: 'choice3': unreferenced local variable
+C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\CrossingStreet\main.cpp(1075,9): warning C4101: 'temp': unreferenced local variable
+  CrossingStreet.vcxproj -> C:\Users\duykh\Desktop\CrossingGame-master\CrossingStreet\x64\Debug\CrossingStreet.exe
